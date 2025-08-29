@@ -1,0 +1,8 @@
+ro.mist.display=1440 x 3120, 120 Hz, HDR10+
+ro.mist.battery=5000 mAh
+ro.mist.soc=Google Tensor G2
+ro.mist.camera=50MP + 48MP + 12MP
+ro.mist.front=10.8MP
+ro.mist.platform=gs201
+ro.mist.screen=6.7" LTPO AMOLED
+ro.mist.device.name=Google Pixel 7 Pro

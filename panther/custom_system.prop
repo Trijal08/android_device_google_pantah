@@ -1,0 +1,8 @@
+ro.mist.display=1080 x 2400, 90 Hz, HDR10+
+ro.mist.battery=4355 mAh
+ro.mist.soc=Google Tensor G2
+ro.mist.camera=50MP + 12MP
+ro.mist.front=10.8MP
+ro.mist.platform=gs201
+ro.mist.screen=6.3" AMOLED
+ro.mist.device.name=Google Pixel 7
