@@ -36,6 +36,10 @@ AXION_CAMERA_REAR_INFO := 50,12
 AXION_CAMERA_FRONT_INFO := 10.8
 AXION_MAINTAINER ?= rmp
 
+# Additions
+TARGET_ENABLE_BLUR := true
+AXION_PROCESSOR := Google_Tensor_G2
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="panther-user 16 BP4A.251205.006 14401865 release-keys" \
     BuildFingerprint=google/panther/panther:16/BP4A.251205.006/14401865:user/release-keys \
